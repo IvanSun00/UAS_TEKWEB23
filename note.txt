@@ -1,0 +1,12 @@
+1. 
+username: user
+nama: user
+password: user
+status: 0
+
+2. 
+username: admin
+nama: admin
+password: admin
+status: 1
+
